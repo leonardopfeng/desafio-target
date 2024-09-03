@@ -1,0 +1,6 @@
+Ligar o primeiro interruptor
+Desligar o primeiro e ligar o segundo
+Se estiver acesa  = 2o interruptor
+Se estiver apagada = Ligue o terceiro interruptor e veja qual acenderá
+	Se tiver uma lampada acesa = 3o interruptor que controla
+	A lampada apagada antes de ligar o 3o interruptor é controlada pelo 1o interruptor, que foi ligado e desligado
